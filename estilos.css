@@ -1,0 +1,32 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+nav {
+    color: tomato;
+}
+
+h1 {
+    background-color: rgb(36, 36, 227);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+h2 {
+    background-color: darkgray;
+}
+
+
+
+p {
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+section {
+    background-color: rgb(240, 220, 168);
+    padding: 20px;
+}
+
