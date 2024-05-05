@@ -85,6 +85,23 @@ p {
 section {
     background-color: rgb(240, 220, 168);
     padding: 20px;
-    padding-top: 100px;
+    padding-top: 10px;
 }
 
+header {
+    margin: -50px;
+    height: 120px;
+    background-color: #4628cf;
+    -webkit-transform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+    transform: rotate(-3deg);
+}
+
+.titulo_pestaña {
+    margin: 60px 5px 10px 
+}
+
+.seccion_pestaña p {
+    text-align: center;
+
+}
